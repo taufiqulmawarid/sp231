@@ -14,3 +14,17 @@ ZCZC W00 30 L17 Assignment #07
 ZCZC W00 30 L44 Created myscript.sh
 ZCZC W00 5 L45 Created SHA256SUM
 ZCZC W00 5 L03 Push weekly assignment
+ZCZC W01 100 L02 Attend offline class
+ZCZC W01 50 L02 Attend zoom meeting
+ZCZC W01 15 L05 Making filter.sh
+ZCZC W01 10 L44 Renewed myscript.sh
+ZCZC W01 10 L11 Assignment #01
+ZCZC W01 5 L62 Backup Virtual Debian Guest before compiling linux kernel
+ZCZC W01 60 L12 Assignment #02
+ZCZC W01 10 L27 Generating key for passwordless local debian login
+ZCZC W01 110 L27 Figuring out why passwordless pubkey login doesnt work. solution: make sure when pasting pubkey to authorized_keys in vim the first s in ssh-rsa is present.
+ZCZC W01 5 L62 Backup Virtual Debian Guest before compiling tlpi
+ZCZC W01 50 L13 Assignment #03
+ZCZC W01 5 L41 Edited mylog.txt
+ZCZC W01 5 L45 Updated SHA256SUM
+ZCZC W01 5 L03 Push weekly assignment
