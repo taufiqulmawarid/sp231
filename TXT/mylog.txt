@@ -28,3 +28,15 @@ ZCZC W01 50 L13 Assignment #03
 ZCZC W01 5 L41 Edited mylog.txt
 ZCZC W01 5 L45 Updated SHA256SUM
 ZCZC W01 5 L03 Push weekly assignment
+ZCZC W02 100 L02 Attend offline class
+ZCZC W02 50 L02 Attend zoom meeting
+ZCZC W02 80 L62 Backup & Restore Virtual Debian Guest
+ZCZC W02 10 L11 Assignment #01
+ZCZC W02 170 L12 Assignment #02
+ZCZC W02 12 L62 Backup Virtual Debian Guest After LFS Chapter 5 done
+ZCZC W02 12 L62 Backup Virtual Debian Guest After LFS Chapter 6 done
+ZCZC W02 144 L13 Assignment #03
+ZCZC W02 5 L41 Edited mylog.txt
+ZCZC W02 5 L45 Updated SHA256SUM
+ZCZC W02 5 L03 Push weekly assignment
+ZCZC W02 12 L62 Backup Virtual Debian Guest
