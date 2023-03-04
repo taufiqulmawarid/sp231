@@ -40,3 +40,14 @@ ZCZC W02 5 L41 Edited mylog.txt
 ZCZC W02 5 L45 Updated SHA256SUM
 ZCZC W02 5 L03 Push weekly assignment
 ZCZC W02 12 L62 Backup Virtual Debian Guest
+ZCZC W03 100 L02 Attend offline class
+ZCZC W03 50 L02 Attend zoom meeting
+ZCZC W03 5 L11 Assignment #01
+ZCZC W03 60 L12 Assignment #02
+ZCZC W03 12 L62 Backup Virtual Debian Guest After Assignment #02 done
+ZCZC W03 45 L13 Assignment #03
+ZCZC W03 10 L14 Assignment #04
+ZCZC W03 5 L44 Renewed myscript.sh
+ZCZC W03 10 L40 Updating TXT
+ZCZC W02 5 L03 Push weekly assignment
+ZCZC W03 12 L62 Backup Virtual Debian Guest After Weekly Assignment Done
