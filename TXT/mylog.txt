@@ -51,3 +51,4 @@ ZCZC W03 5 L44 Renewed myscript.sh
 ZCZC W03 10 L40 Updating TXT
 ZCZC W02 5 L03 Push weekly assignment
 ZCZC W03 12 L62 Backup Virtual Debian Guest After Weekly Assignment Done
+ZCZC W03 30 L05 Do Quiz
