@@ -63,3 +63,13 @@ ZCZC W04 10 L40 Updating TXT
 ZCZC W04 5 L03 Push weekly assignment
 ZCZC W04 12 L62 Backup Virtual Debian Guest After Weekly Assignment Done
 ZCZC W04 10 L05 Do pop quiz
+ZCZC W05 100 L02 Attend offline class
+ZCZC W05 20 L02 Attend zoom meeting
+ZCZC W05 5 L11 Assignment #01
+ZCZC W05 20 L12 Assignment #02
+ZCZC W05 80 L62 Backup Virtual Debian Guest Before Compiling Latest Linux Kernel
+ZCZC W05 60 L14 Assignment #04
+ZCZC W05 40 L05 Do pop quiz
+ZCZC W05 5 L40 Updating TXT
+ZCZC W05 5 L03 Push weekly assignment
+ZCZC W05 12 L62 Backup Virtual Debian Guest After Weekly Assignment Done
