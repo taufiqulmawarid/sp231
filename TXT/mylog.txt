@@ -99,3 +99,10 @@ ZCZC W08 30 L05 Do pop quiz
 ZCZC W08 10 L40 Updating TXT
 ZCZC W08 5 L03 Push weekly assignment
 ZCZC W08 15 L62 Backup Virtual Debian Guest After Weekly Assignment Done
+ZCZC W09 100 L02 Attend Offline class
+ZCZC W09 50 L02 Attend zoom meeting
+ZCZC W09 120 L09 Finishing assignment
+ZCZC W09 5 L05 Do pop quiz
+ZCZC W09 10 L40 Updating TXT
+ZCZC W09 5 L03 Push weekly assignment
+ZCZC W09 15 L62 Backup Virtual Debian Guest After Weekly Assignment Done
